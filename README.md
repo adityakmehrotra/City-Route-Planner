@@ -35,12 +35,12 @@ The project includes several key Java classes:
    
 2. **Compile the code**:
 
-  Ensure that all Java files are in the same directory or properly referenced.
+   Ensure that all Java files are in the same directory or properly referenced.
   ```bash
   javac Path.java Intersection.java PathUtils.java PathUtilsTester.java
   ```
 
-4. **Run the tests**:
+3. **Run the tests**:
   To see the library in action and verify its operations:
   ```bash
   java PathUtilsTester
