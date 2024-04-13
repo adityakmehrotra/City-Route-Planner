@@ -28,23 +28,25 @@ The project includes several key Java classes:
 ### Installation
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/yourusername/java-path-utilities.git
    cd java-path-utilities
    ```
    
 2. **Compile the code**:
-
+   
    Ensure that all Java files are in the same directory or properly referenced.
-  ```bash
-  javac Path.java Intersection.java PathUtils.java PathUtilsTester.java
-  ```
+   ```bash
+   javac Path.java Intersection.java PathUtils.java PathUtilsTester.java
+   ```
 
 3. **Run the tests**:
-  To see the library in action and verify its operations:
-  ```bash
-  java PathUtilsTester
-  ```
+
+   To see the library in action and verify its operations:
+   ```bash
+   java PathUtilsTester
+   ```
 
 ## Usage Example
 After compiling the classes, you can use the PathUtilsTester to test various functionalities of the library. The tester class will demonstrate how to use the library methods, including creating paths, finding intersections, and utilizing other utility functions.
